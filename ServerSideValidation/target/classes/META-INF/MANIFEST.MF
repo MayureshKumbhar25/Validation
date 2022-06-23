@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: santo
+Build-Jdk: 17.0.2
+Implementation-Title: ServerSideValidation
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.serverValidation
+Implementation-URL: https://spring.io/projects/spring-boot/ServerSideVal
+ idation
+Created-By: Maven Integration for Eclipse
+
